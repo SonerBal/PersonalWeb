@@ -1,0 +1,35 @@
+/* DO NOT EDIT CSS CODE */
+
+@import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light|Oswald|Permanent+Marker|Montserrat');
+body {
+  background-color: #ffffff;
+}
+
+h1 {
+    color: #fafafa;
+    font-family: 'Oswald', sans-serif;
+    font-size: 64px;
+    background-color: #000000;
+}
+
+h2 {
+  font-family: 'Oswald', sans-serif;
+  font-size: 54px;
+}
+
+h3 {
+    font-family: 'Oswald', sans-serif;
+  border:  3px solid #ffb8b8;
+}
+header > div > nav a:hover {
+  color: #f04242;
+}
+
+
+main > div {
+  overflow: hidden;
+  border: 3px solid #ffb8b8;
+  padding: 10px;
+  background-color: #ffe9c2;
+}
+
